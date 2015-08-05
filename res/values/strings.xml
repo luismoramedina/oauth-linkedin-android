@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">linkedin-oauth</string>
+    <string name="li_welcome_paragraph1">Welcome, FindMe wants to connect
+        to your LinkedIn account to get
+        your professional profile.
+    </string>
+    <string name="li_welcome_paragraph2">Now you must access with
+        your LinkedIn credential to grant FindMe
+        access to your data.
+    </string>
+    <string name="li_welcome_paragraph3">When you insert your
+        credentials you must remember/copy the
+        PIN to insert it into the next screen.
+    </string>
+    <string name="li_next">Next</string>
+    <string name="user_profession">user_profession</string>
+    <string name="user_name">user_name</string>
+
+    <string name="li_token_pref">com.findme.android.linkedin.token</string>
+    <string name="li_token_secret_pref">com.findme.android.linkedin.tokenSecret</string>
+
+    <string name="findme_user_name_pref">com.findme.android.user.name</string>
+    <string name="findme_user_last_name_pref">com.findme.android.user.last_name</string>
+    <string name="findme_user_email_pref">com.findme.android.user.email</string>
+    <string name="findme_user_avatar_pref">com.findme.android.user.avatar</string>
+
+
+    <string name="wait_message">Por favor espere…</string>
+    <string name="wait_title">Accediendo.</string>
+    <string name="user_name_text">Nombre:</string>
+    <string name="user_lastname_text">Apellidos:</string>
+    <string name="user_email_text">Email</string>
+    <string name="user_image_content_description">Avatar</string>
+    <string name="user_last_name_text">Apellidos</string>
+    <string name="save_user_button_text">Guardar</string>
+    <string name="select_picture_text">Select Picture</string>
+    <string name="li_next_with_oauth">Next with OAuth</string>
+</resources>

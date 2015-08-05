@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="user_name_text">Nombre:</string>
+    <string name="user_lastname_text">Apellidos:</string>
+    <string name="user_email_text">Email</string>
+    <string name="user_last_name_text">Apellidos</string>
+    <string name="save_user_button_text">Guardar</string>
+    <string name="select_picture_text">Select Picture</string>
+</resources>
