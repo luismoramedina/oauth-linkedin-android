@@ -1,5 +1,5 @@
 # oauth-android-test
-android app to do a oauth2 flow
+android app to do a linkedin oauth2 flow and get linked in user data
 
 ## configure
 
